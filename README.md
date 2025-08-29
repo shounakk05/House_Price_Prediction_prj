@@ -1,1 +1,1 @@
-# House_Price_Prediction_prj
+Making a ML model which uses regression to predict the house prices based on the other parameters. I used the XGBRegressor to make my regression model, taking the fetch_california_housing dataset for the training and tesing of my ML model.
